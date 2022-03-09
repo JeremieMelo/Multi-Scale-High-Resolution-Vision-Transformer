@@ -1,5 +1,5 @@
 # Multi-Scale-High-Resolution-Vision-Transformer
-By [Jiaqi Gu](https://github.com/JeremieMelo), Hyoukjun Kwon, Dilin Wang, Wei Ye, Meng Li, Yu-Hsin Chen, Liangzhen Lai, Vikas Chandra and David Z. Pan.
+By [Jiaqi Gu](https://jeremiemelo.github.io/), Hyoukjun Kwon, Dilin Wang, Wei Ye, Meng Li, Yu-Hsin Chen, Liangzhen Lai, Vikas Chandra and David Z. Pan.
 
 This repo is the official implementation of "[Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation](https://arxiv.org/abs/2111.01236)".
 
