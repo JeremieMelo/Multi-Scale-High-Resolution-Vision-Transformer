@@ -4,6 +4,9 @@ By [Jiaqi Gu](https://jeremiemelo.github.io/), Hyoukjun Kwon, Dilin Wang, Wei Ye
 This repo is the official implementation of "[Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation](https://arxiv.org/abs/2111.01236)".
 
 ## Updates
+***06/10/2022***
+`News`: Official open-source code is at [facebookresearch/HRViT](https://github.com/facebookresearch/HRViT).
+
 ***03/02/2022***
 
 `News`: HRViT got accepted by CVPR 2022.
