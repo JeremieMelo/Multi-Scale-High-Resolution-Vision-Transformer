@@ -5,6 +5,7 @@ This repo is the official implementation of "[Multi-Scale High-Resolution Vision
 
 ## Updates
 ***06/10/2022***
+
 `News`: Official open-source code is at [facebookresearch/HRViT](https://github.com/facebookresearch/HRViT).
 
 ***03/02/2022***
